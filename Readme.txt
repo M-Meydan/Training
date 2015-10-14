@@ -1,1 +1,1 @@
-Hello world on the featur branch!
+Hello world on the feature branch!
